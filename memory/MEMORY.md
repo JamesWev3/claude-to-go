@@ -1,0 +1,21 @@
+- [Readable low-code: TOP PRIORITY](readable-low-code.md) — load the `readable-low-code` skill before ANY code: house pattern first, own both sides, one owner per event, why-only comments, behaviour tests + mutation check; paste into subagent briefs
+- [Open files proactively](open-files-proactively.md) — ALWAYS Neovim, never IntelliJ (also in apps I build); open files unasked; drive RPC from a Lua file (`nvim -l`) that clears hit-enter prompts
+- [Creative diagrams](creative-diagrams.md) — more diagrams, pretty and explanatory; lanes are his favourite; state, rings, code + trace landed too; pick by the question
+- [Exact edit pointers](exact-edit-pointers.md) — James's steps come as file:line + exact diff to type; Claude does big low-learning chunks
+- [Don't over-trim messages](dont-overtrim-messages.md) — drafts stay pretty + informative; working replies show my reasoning + where the plan heads; middle ground: 1-3 prose lines per point + a diagram each; never reasoning hidden in tips, never essays
+- [Plain English over maths](plain-english-over-maths.md) — maths analogies often miss the code's meaning; lead with plain words + his own classes
+- [Prefer A4](prefer-a4.md) — PDFs and printable docs in A4 unless told otherwise
+- [Scannable pages, not dense](scannable-pages-not-dense.md) — navigation pages for James: titles only, hints only on cryptic ones, landmarks + breathing room; v1 Notion draft rejected as text in a tight space
+- [No quiz review steps](no-quiz-review-steps.md) — never gate James with predict/quiz steps; review = standalone visual app he pokes and steers from
+- [Meaningful human role](meaningful-human-role.md) — his part in any AI workflow must need HIS brain + be fun; redesign, never defend, a rubber-stamp role
+- [Usable before deeper](usable-before-deeper.md) — make his tools usable + understood before adding depth; sample jobs are fixtures, not problems
+- [Single-purpose tools](single-purpose-tools.md) — prefers a dedicated app over plugins bending an editor; dual-wielding fine
+- [No Claude bias in comparisons](no-claude-bias-in-comparisons.md) — judge tools only on James's stated criteria, Claude Code in the same table; no plan/tier/terms framing unless asked
+- [Code comment density](code-comment-density.md) — code for James: a few signpost comments per block, never line-by-line explainers; CSS: one plain-words line on what each trick rule achieves
+- [Commit messages: title only](commit-messages-title-only.md) — no body, no Co-Authored-By trailer; user writes descriptions by hand
+- [Explainer time budget](explainer-time-budget.md) — 2026-11-23: five explainer posters took too long; build the 1-2 that matter, show them, ask before more
+- [One thing at a time](one-thing-at-a-time-rounds.md) — big MyClaude round overwhelmed James; stripped to 0.27.2 + 2 fixes (0.29.0); rest on branch round-0.28; one feature per release
+- [Tooling map pattern](tooling-map-pattern.md) — personal tooling Claude maintains: README map + one entry point + a file per part; update the map with the code
+- [Screenshots only when told](screenshots-only-when-told.md) — screenshot his screen (watch-mixpanel-screens.sh) ONLY after he says switch it on, every session
+- [Ponytail thinking](ponytail-thinking.md) — Simon has the "does it need to exist?" instinct, James wants it explained; Ponytail always-on + review chosen 2026-11-09
+- [Laptop cleanup](laptop-cleanup.md) — THE job here: slow + hot personal Mac; look first, backup first, nothing irreversible without his OK

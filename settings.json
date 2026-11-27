@@ -1,0 +1,11 @@
+{
+  "model": "opus[1m]",
+  "theme": "auto",
+  "modelSettings": {
+    "claude-opus-5-5": { "effortLevel": "xhigh", "autoCompactWindow": "auto" },
+    "claude-sonnet-5-5": { "effortLevel": "high" }
+  },
+  "pluginConfigs": {
+    "ponytail@ponytail": { "options": { "ledger": true, "sendNames": true } }
+  }
+}
